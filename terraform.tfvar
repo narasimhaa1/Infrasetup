@@ -1,0 +1,4 @@
+region = "us-central1"
+vpc-network = "infor-vpc"
+ip_cidr_range = "10.0.1.0/24"
+vpc-subnetwork = "infor-subnet"
